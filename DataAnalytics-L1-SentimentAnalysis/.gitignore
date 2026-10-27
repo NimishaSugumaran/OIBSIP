@@ -1,0 +1,5 @@
+# dataset (download from UCI, too large for GitHub)
+*.csv
+# Jupyter
+.ipynb_checkpoints/
+untitled*.py
