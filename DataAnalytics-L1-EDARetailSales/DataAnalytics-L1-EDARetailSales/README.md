@@ -3,6 +3,7 @@
 Exploratory Data Analysis of retail transactions to find sales trends, customer demographics and product performance, ending with actionable business recommendations.
 
 **Internship:** Oasis Infobyte SIP | **Track:** Data Analytics | **Level 1, Task 1**
+
 **Author:** Nimisha S
 
 ## Objective
