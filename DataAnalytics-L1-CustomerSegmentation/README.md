@@ -3,6 +3,7 @@
 Segmentation of e-commerce customers using RFM analysis and K-Means clustering, ending with a marketing recommendation for each segment.
 
 **Internship:** Oasis Infobyte SIP | **Track:** Data Analytics | **Level 1, Task 2**
+
 **Author:** Nimisha S
 
 ## Objective
